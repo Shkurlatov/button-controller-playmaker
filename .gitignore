@@ -74,3 +74,7 @@ crashlytics-build.properties
 # PlayMaker
 /[Aa]ssets/[Pp]layMaker/
 /[Aa]ssets/[Pp]layMaker.meta
+/[Aa]ssets/[Pp]lugins/
+/[Aa]ssets/[Pp]lugins.meta
+/[Aa]ssets/[Gg]izmos/
+/[Aa]ssets/[Gg]izmos.meta
